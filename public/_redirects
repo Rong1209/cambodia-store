@@ -1,0 +1,6 @@
+/login.html /login.html 200
+/register.html /register.html 200
+/panel.html /panel.html 200
+/admin.html /admin.html 200
+/site.html /site.html 200
+/:slug /site.html 200
